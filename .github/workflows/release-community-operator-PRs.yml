@@ -12,7 +12,7 @@ on:
     branches:
       - main
     paths:
-      - 'VERSION'
+      - 'deploy/olm-catalog/stable/VERSION'
 
 jobs:
   build:
