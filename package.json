@@ -1,0 +1,7 @@
+{
+  "name": "che-operator-dummy-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akurinnoy/che-operator.git",
+  "license": "MIT"
+}
